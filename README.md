@@ -1,4 +1,5 @@
 Customer Booking Behavior Prediction
+
 This repository contains my work from the British Airways Data Science virtual experience. During this simulation, I acted as a member of the BA Data Science team, tackling real-world challenges that impact both airline operations and customer strategy. The project is divided into two main tasks: Airport Planning and Customer Acquisition.
 
 The Challenges
